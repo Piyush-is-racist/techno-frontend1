@@ -2,7 +2,7 @@
   "name": "techno-admin-frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:5051",
+"proxy": "https://techno-backend-76p3.onrender.com"
   "dependencies": {
     "@handsontable/react": "^15.2.0",
     "handsontable": "^15.2.0",
